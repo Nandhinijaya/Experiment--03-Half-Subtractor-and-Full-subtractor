@@ -43,6 +43,8 @@ RegisterNumber: 22007762
 
 ## Truthtable
 
+![halfsubtractor (2)](https://user-images.githubusercontent.com/121998147/214759006-d8bc9361-497b-45a4-94c5-24d3799b76be.png)
+![fullsubtractor (2)](https://user-images.githubusercontent.com/121998147/214759026-a0035e13-4517-4259-b06f-53cd8819a7c1.png)
 
 
 ##  RTL realization
@@ -50,8 +52,8 @@ RegisterNumber: 22007762
 ![halfsubtractor](https://user-images.githubusercontent.com/121998147/214274696-67b7675c-4b04-4599-8a0b-4ce33ab9e70a.png)
 ![fullsubtractor](https://user-images.githubusercontent.com/121998147/214274747-ed393e6a-c87b-405a-beb1-848eb6b4750c.png)
 
-## Timing diagram!
-[half subtractor TD](https://user-images.githubusercontent.com/121998147/214274890-562236bd-5760-4c1e-9c43-e8e75f9f66fc.png) 
+## Timing diagram
+![half subtractor TD](https://user-images.githubusercontent.com/121998147/214274890-562236bd-5760-4c1e-9c43-e8e75f9f66fc.png) 
 ![fullsubtractor TD](https://user-images.githubusercontent.com/121998147/214275065-3995a2ef-df6a-42ee-80ba-c8035db54331.png)
 
 ## ResulT
